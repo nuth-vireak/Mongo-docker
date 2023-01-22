@@ -127,11 +127,11 @@ students = [
         "totalSpentInBooks": 0.00
     },
     {
-        "_id": "5f9f1b9b9b9b9b9b9b9b9b9b",
         "firstName": "Cally",
         "lastName": "Walkden",
         "email": "cwalkden9@craigslist.org",
         "gender": "F",
+        "country": "China",
         "isStudentActive": true,
         "favouriteSubjects": [
             "it"
