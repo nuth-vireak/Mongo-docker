@@ -127,11 +127,11 @@ students = [
         "totalSpentInBooks": 0.00
     },
     {
+        "_id": "5f9f1b9b9b9b9b9b9b9b9b9b",
         "firstName": "Cally",
         "lastName": "Walkden",
         "email": "cwalkden9@craigslist.org",
         "gender": "F",
-        "country": "Niger",
         "isStudentActive": true,
         "favouriteSubjects": [
             "it"
@@ -139,3 +139,17 @@ students = [
         "totalSpentInBooks": 165.00
     }
 ]
+
+address = {
+    "student_id": "<ObjectId>",
+    "country": "Philippines",
+    "postcode": "1000",
+    "city": "Manila",
+}
+
+address = {
+    "student_id": "<ObjectId>",
+    "country": "Spain",
+    "postcode": "10df00",
+    "city": "Manila",
+}
